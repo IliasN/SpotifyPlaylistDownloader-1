@@ -1,4 +1,4 @@
-# SpotifyPlaylistDownloader
+# Spotify Playlist Downloader
 
 ## Introduction
 I made this app to download spotify's playlist from Youtube using multiple others c# APIs.
