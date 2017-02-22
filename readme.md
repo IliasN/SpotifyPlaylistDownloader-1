@@ -1,13 +1,19 @@
-<h1>Introduction</h1>
-<p>I made this app to download spotify's playlist from Youtube using multiple others c# APIs.</p>
-<h1>Libraries Used</h1>
-<ul>
-<li>YoutubeExtractor</li>
-<li>MediaToolKit</li>
-<li>YoutubeSearch</li>
-<li>TagLib</li>
-</ul>
-<h1>License</h1>
-<p>This application is under the GNU general public license version 3.</p>
-<h1>Bugs</h1>
-<p>Doesn't work with Spotify dynamic playlists. And with collaboratives ones. And followed ones.</p>
+# SpotifyPlaylistDownloader
+
+## Introduction
+I made this app to download spotify's playlist from Youtube using multiple others c# APIs.
+
+## Libraries Used
+
+* YoutubeExtractor
+* MediaToolKit
+* YoutubeSearch
+* TagLib
+
+## License
+
+This application is under the GNU GPLv3.
+
+## Bugs
+
+Doesn't work with Spotify dynamic, collaborative, and followed playlists.
